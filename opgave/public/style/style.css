@@ -1,0 +1,77 @@
+header {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+#main_nav li {
+    display: inline;
+}
+
+#top {
+    display: flex;
+    flex-direction: column;
+}
+
+#subscribe {
+    padding-top: 50px;
+    align-content: flex-end;
+    
+}
+
+#top_top{
+    display: inline-flex;
+    justify-content: space-around;
+}
+
+#top_bottom{
+    display: flex;
+    justify-content: center;
+}
+
+
+
+#bottom_trending {
+    display: flex;
+    justify-content: space-around;
+}
+
+#bottom_right img{
+    width: 200px;
+    height: 150px;
+}
+
+#bottom_left img{
+    height: 100px;
+    width: 150px;
+}
+
+#bottom_headline {
+    text-align: center;
+}
+
+
+
+
+
+#bottom_left img {
+    float: left
+}
+
+#bottom_left img {
+    float: left
+}
+
+#bottom_left img{
+    margin-bottom: 20px;
+    
+}
+
+#bottom_left p{
+    float: left;
+    
+}
+
+#bottom {
+    
+}
